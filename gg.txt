@@ -1,0 +1,1 @@
+Image steganography is the practice of concealing information within the data of digital images without altering their visual appearance. The hidden data can include text, images, audio, or any other form of binary information.11 
